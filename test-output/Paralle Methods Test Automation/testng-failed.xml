@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="6" name="Failed suite [Paralle Methods Test Automation]" parallel="methods">
+  <test name="Paralle Methods Test">
+    <classes>
+      <class name="com.parallelmethods.Addcart"/>
+    </classes>
+  </test> <!-- Paralle Methods Test -->
+</suite> <!-- Failed suite [Paralle Methods Test Automation] -->

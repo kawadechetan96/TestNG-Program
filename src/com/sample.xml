@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Samplexml test automation">
+  <test name="Samplesml Test">
+    <classes>
+      <class name="com.samplexml.Addcart"/>
+       <class name="com.samplexml.Deletecart"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+

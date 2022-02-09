@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Parallel test automation]">
+  <test name="Parallel Test">
+    <classes>
+      <class name="com.samplexml.Addcart"/>
+      <class name="com.samplexml.Deletecart"/>
+    </classes>
+  </test> <!-- Parallel Test -->
+</suite> <!-- Failed suite [Parallel test automation] -->

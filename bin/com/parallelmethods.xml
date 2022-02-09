@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Paralle Methods Test Automation" parallel="methods" thread-count="6" >
+  <test name="Paralle Methods Test">
+    <classes>
+      <class name="com.parallelmethods.Addcart"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

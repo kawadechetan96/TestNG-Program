@@ -1,0 +1,9 @@
+
+<suite name="Parallel Methods Test Automation" parallel="methods" thread-count="3">
+  <test name="Parallel Methods Test">
+    <classes>
+      <class name="com.parallelmethods.Class1"/>
+     
+    </classes>
+  </test> <!-- Parallel Methods Test -->
+</suite> <!-- Parallel Methods Test Automation -->

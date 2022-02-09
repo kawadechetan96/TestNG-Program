@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallee Classes Test Automation" parallel="classes" thread-count="3">
+  <test name="Parallee Classes Test">
+    <classes>
+      <class name="com.parallelclasses.Class1"/>
+      <class name="com.parallelclasses.Class2"/>
+      <class name="com.parallelclasses.Class3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
